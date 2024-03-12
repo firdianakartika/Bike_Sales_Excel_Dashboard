@@ -8,7 +8,7 @@ This dataset comprises buyer unique IDs, marital status, income, number of child
 2.	Middle-aged individuals make up the largest group of bike purchasers, compared to adolescents and the elderly.
 3.	The Majority of bike buyers are residents with commute distances ranging from 0-1 miles.
 ## Process :
-1.	Data cleansing
+1.	Data cleaning
 2.	Data formatting
 3.	Creating pivot tables
 4.	Creating charts based on pivot table insights
