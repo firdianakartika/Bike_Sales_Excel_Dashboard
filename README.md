@@ -1,4 +1,8 @@
 # Bike_Sales_Excel_Dashboard
+
+![bikesales](https://github.com/firdianakartika/Bike_Sales_Excel_Dashboard/assets/97554145/25db469a-69a0-4aa4-b4d3-1b7bd00042a7)
+
+
 ## Project Overview :
 This project focuses on examining the demographic distribution among bicycle buyers. It commenced with data preparation through cleansing and formatting procedures, followed by the creation of data visualizations using a dashboard interface. The dataset encompasses information from 1026 buyers with diverse backgrounds. The findings illustrate unique disparities in the distribution of bicycle purchasers based on marital status, region, and education.
 ## Dataset :
